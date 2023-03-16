@@ -1,0 +1,44 @@
+.ceo-bg {
+  background-color: #412c76;
+  background-image: linear-gradient(rgba(65, 44, 118,0.8), rgba(65, 44, 118,0.8)),
+    url('../../../../assets/images/students.jpg');
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+  padding: 1em;
+  
+}
+.ceo-message{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+.ceo-message h1{
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 3rem;
+
+}
+.fa-quote-left{
+    font-size: 3rem;
+    color: #ffffff;
+}
+.fa-quote-right{
+    font-size: 3rem;
+    color: #ffffff;
+    position: absolute;
+}
+
+
+
+@media screen and (max-width: 940px) {
+    .ceo-message h1{
+        font-size: 2rem;
+        font-weight: bold;
+        line-height: 1.5;
+        text-align: center;
+        margin-bottom: 3rem;
+    
+    }
+}

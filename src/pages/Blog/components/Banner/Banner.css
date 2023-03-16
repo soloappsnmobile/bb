@@ -1,0 +1,11 @@
+.banner-container{
+    background-color: #412c76;
+    background-image: linear-gradient(
+        rgba(65, 44, 118, 0.8),
+        rgba(65, 44, 118, 0.8)
+      ),
+      url("../../../../assets/images/blog.jpg");
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+}

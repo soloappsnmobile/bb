@@ -1,0 +1,120 @@
+.why-us h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.button {
+  color: #fff;
+  background-color: rgb(65, 44, 118);
+  width: 10rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  border: none;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  transition: 0.5s ease-in-out;
+}
+.button:hover {
+  color: rgb(65, 44, 118);
+  background-color: rgb(255, 255, 255);
+  /* border: .5px solid #412c76; */
+}
+
+.design4 {
+  background-color: rgba(212, 165, 8, 0.733);
+  height: 3rem;
+  width: 3rem;
+  position: absolute;
+  border-bottom-left-radius: 2rem;
+  /* bottom: 0; */
+}
+.design5 {
+  background-color: rgba(62, 8, 212, 0.356);
+  height: 3rem;
+  width: 3rem;
+  position: absolute;
+  border-bottom-left-radius: 2rem;
+  /* bottom: 0; */
+}
+.design6 {
+  background-color: rgba(212, 8, 35, 0.384);
+  height: 3rem;
+  width: 3rem;
+  position: absolute;
+  border-bottom-left-radius: 2rem;
+  /* bottom: 0; */
+}
+.design7 {
+  background-color: rgba(8, 212, 8, 0.384);
+  height: 3rem;
+  width: 3rem;
+  position: absolute;
+  border-bottom-left-radius: 2rem;
+  /* bottom: 0; */
+}
+.numbering h1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+}
+.why-description p {
+  font-weight: 700;
+  color: rgb(83, 83, 83);
+}
+.video{
+  width: 500px;
+  height: 250px;
+}
+.brochure{
+  transition: .5s ease-in-out;
+}
+.brochure:hover{
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+@media screen and (max-width: 940px) {
+  .why-us h1 {
+    font-size: 1.5rem;
+  }
+  .why-container {
+    text-align: center;
+  }
+  .why-us-left p {
+    font-size: 0.8rem;
+  }
+  .why-description p {
+    font-weight: 700;
+    color: rgb(83, 83, 83);
+    font-size: 0.8rem;
+    text-align: left;
+  }
+  .numbering h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+  }
+  .design4 {
+    height: 2rem;
+    width: 2rem;
+  }
+  .design5 {
+    height: 2rem;
+    width: 2rem;
+  }
+  .design6 {
+    height: 2rem;
+    width: 2rem;
+  }
+  .design7 {
+    height: 2rem;
+    width: 2rem;
+  }
+  .video{
+    width: 280px;
+    height: 200px;
+  }
+  .why-us-img{ 
+    display: none;
+  }
+}

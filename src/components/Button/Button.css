@@ -1,0 +1,23 @@
+.button{
+    color: #fff;
+    background-color: rgb(65, 44, 118);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    border: none;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+.button2{
+    color: rgb(65, 44, 118);
+    border: 1px solid #412c76;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    background-color: #fff;
+    margin-left: 1rem;
+}
