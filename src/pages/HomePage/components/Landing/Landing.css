@@ -1,10 +1,10 @@
 .landing-section {
-  background-color: #412c76;
+  background-color: #f08219;
   background-image: linear-gradient(
-      rgba(65, 44, 118, 0.8),
-      rgba(65, 44, 118, 0.8)
+      #584931cc,
+      rgba(68, 55, 41, 0.8)
     ),
-    url("../../../../assets/images/students.jpg");
+    url("../../../../assets/images/2.jpg");
   background-position: center;
   background-size: cover;
   color: #ffffff;

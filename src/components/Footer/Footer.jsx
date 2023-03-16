@@ -58,7 +58,7 @@ const Footer = () => {
                     </li>
                   </ul>
                 </div>
-                <form action="#" method="post">
+                <form action="#" method="post" className="form">
                   <label for="email">Subscribe to our Newsletter:</label>
                   <input
                     type="email"

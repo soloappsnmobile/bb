@@ -58,13 +58,13 @@ const Contact = () => {
             <div class="cardii">
               <i class="fas fa-phone"></i>
               <h2 class="card-title">Phone number</h2>
-              <p class="card-info">+233 249 2730 49</p>
+              <p class="card-info">+233 240 0000 00</p>
             </div>
 
             <div class="cardii">
               <i class="fas fa-envelope"></i>
               <h2 class="card-title">Email</h2>
-              <p class="card-info">bbexaminerss@gmail.com</p>
+              <p class="card-info">pressconsultancy@gmail.com</p>
             </div>
           </div>
           <div className="col-md-8">

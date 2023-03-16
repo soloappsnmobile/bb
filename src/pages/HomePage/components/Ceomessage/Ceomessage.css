@@ -1,7 +1,10 @@
 .ceo-bg {
-  background-color: #412c76;
-  background-image: linear-gradient(rgba(65, 44, 118,0.8), rgba(65, 44, 118,0.8)),
-    url('../../../../assets/images/students.jpg');
+ background-color: #f08219;
+  background-image: linear-gradient(
+      #584931cc,
+      rgba(68, 55, 41, 0.8)
+    ),
+    url('../../../../assets/images/1.jpg');
   background-position: center;
   background-size: cover;
   color: #ffffff;

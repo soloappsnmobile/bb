@@ -12,7 +12,7 @@
   }
   .progress-bar {
     border-radius: 16px;
-    background-color: #412c76 !important;
+    background-color: #f08219 !important;
     width: 100%;
   }
   .progress {
@@ -20,7 +20,7 @@
     margin-bottom: 20px;
   }
   .bolder{
-     color: #412c76; 
+     color: #f08219; 
   }
 
 @media screen and (max-width: 940px) {
