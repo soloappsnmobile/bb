@@ -28,7 +28,7 @@ const VisionMision = () => {
               </span>
               <h6>Our Vision</h6>
               <p>
-              Best Brain Examinations Konsortium brews a robust vision to become a premier edupreneurship entity in the West African sub-region, analogous to the West African Examinations Council.
+             Press Consultancy brews a robust vision to become a premier edupreneurship entity in the West African sub-region, analogous to the West African Examinations Council.
               </p>
             </div>
           </div>

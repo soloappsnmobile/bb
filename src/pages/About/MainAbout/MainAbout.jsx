@@ -16,31 +16,29 @@ const MainAbout = () => {
           <div className="row">
             <div className="col-md-6">
               <div className="about-content">
-                <b className="bolder">Best Brain Examinations Konsortium (BBEKO)</b> is an
-                educational consultancy which is one of a kind in branding and
+                <b className="bolder">Press Consultancy</b> is a
+                 consultancy which is one of a kind in branding and
                 reputation. Since 2004, our name has been associated with the
-                most prestigiuos examinations for schools in Ghana. Thousands of
+                most prestigiuos companies in Ghana. Thousands of
                 dynamic and ambitious private and public schools nationwide have
-                benefitted from our value - laden services. With a team of giant
-                independent private examiners, we offer you a one - stop shop
-                for all your examination needs.
+                benefitted from our value - laden services. 
               </div>
             </div>
 
             <div className="col-md-6 mt-3 skills-bar">
-              <p>Quality Examination Questions</p>
+              <p>Quality Service</p>
               <div className="progress">
                 <div className="progress-bar">100%</div>
               </div>
-              <p>Standard Paper size</p>
+              <p>Standard Service</p>
               <div className="progress">
                 <div className="progress-bar">100%</div>
               </div>
-              <p>Seasoned Examiners</p>
+              <p>Seasoned Consultants</p>
               <div className="progress">
                 <div className="progress-bar">100%</div>
               </div>
-              <p>Door-to-Door Delivery Services</p>
+              <p>24/7 Support</p>
               <div className="progress">
                 <div className="progress-bar">100%</div>
               </div>
