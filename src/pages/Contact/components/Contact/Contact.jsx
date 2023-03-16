@@ -69,7 +69,7 @@ const Contact = () => {
           </div>
           <div className="col-md-8">
             <div class="form-container">
-              <form onSubmit={sendEmail}>
+              <form >
                 <ul>
                   <li>
                     <label for="name">

@@ -1,5 +1,5 @@
 .cardii {
-  background: #412c76;
+  background: #f08219;
   min-width: 300px;
   height: 140px;
   margin: 30px;
@@ -79,7 +79,7 @@ span {
   text-transform: uppercase;
 }
 input[type="submit"] {
-  background: #412c76;
+  background: #f08219;
   color: white;
   font-weight: 700;
   font-size: 1.2rem;
