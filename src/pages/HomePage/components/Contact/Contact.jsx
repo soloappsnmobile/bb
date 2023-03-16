@@ -65,9 +65,10 @@ const Contact = () => {
           </div>
 
           <div class="cardii">
-            <i class="fas fa-envelope"></i>
-            <h2 class="card-title">Email</h2>
-            <p class="card-info">bestbrain@gmail.com</p>
+            <i class="fas fa-clock"></i>
+            <h2 class="card-title">Activity Hours</h2>
+            <p class="card-info">8am - 5pm </p>
+            <p class="card-info">Monday - Friday</p>
           </div>
         </div>
         <div className="col-md-8">
